@@ -1,0 +1,9 @@
+c:\users\sinan\documents\visual studio 2015\Projects\ReverseColussiGui\ReverseColussiGui\bin\Debug\ReverseColussiGui.exe.config
+c:\users\sinan\documents\visual studio 2015\Projects\ReverseColussiGui\ReverseColussiGui\bin\Debug\ReverseColussiGui.exe
+c:\users\sinan\documents\visual studio 2015\Projects\ReverseColussiGui\ReverseColussiGui\bin\Debug\ReverseColussiGui.pdb
+c:\users\sinan\documents\visual studio 2015\Projects\ReverseColussiGui\ReverseColussiGui\obj\Debug\ReverseColussiGui.csprojResolveAssemblyReference.cache
+c:\users\sinan\documents\visual studio 2015\Projects\ReverseColussiGui\ReverseColussiGui\obj\Debug\ReverseColussiGui.Form1.resources
+c:\users\sinan\documents\visual studio 2015\Projects\ReverseColussiGui\ReverseColussiGui\obj\Debug\ReverseColussiGui.Properties.Resources.resources
+c:\users\sinan\documents\visual studio 2015\Projects\ReverseColussiGui\ReverseColussiGui\obj\Debug\ReverseColussiGui.csproj.GenerateResource.Cache
+c:\users\sinan\documents\visual studio 2015\Projects\ReverseColussiGui\ReverseColussiGui\obj\Debug\ReverseColussiGui.exe
+c:\users\sinan\documents\visual studio 2015\Projects\ReverseColussiGui\ReverseColussiGui\obj\Debug\ReverseColussiGui.pdb
