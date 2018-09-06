@@ -1,5 +1,5 @@
 # ReverseColussiGui
-# C# form application about Reverse Colussi string matching algorithm.
+# C# form application which use Reverse Colussi string matching algorithm.
 # Main features
 refinement of the Boyer-Moore algorithm
 
