@@ -1,11 +1,16 @@
 # ReverseColussiGui
 # C# form application about Reverse Colussi string matching algorithm.
 # Main features
-refinement of the Boyer-Moore algorithm;
-partitions the set of pattern positions into two disjoint subsets;
-preprocessing phase in O(m2) time and O(msigma) space;
+refinement of the Boyer-Moore algorithm
+
+partitions the set of pattern positions into two disjoint subsets
+
+preprocessing phase in O(m2) time and O(msigma) space
+
 searching phase in O(n) time complexity;
+
 2n text character comparisons in the worst case.
+
 The character comparisons are done using a specific order given by a table h.
 
 # Description
@@ -27,3 +32,6 @@ The table rcBc is defined as follows: rcBc[a, s]=min{k :  (k=m or x[m-k-1]=a) an
 A table link is used to link downward all the occurrences of each pattern character.
 
 The preprocessing phase can be performed in O(m2) time and O(msigma) space complexity. The searching phase is in O(n) time complexity.
+
+
+Thanks for all works and contributions to my friend -Sinan Çürük.
