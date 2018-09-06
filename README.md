@@ -34,4 +34,4 @@ A table link is used to link downward all the occurrences of each pattern charac
 The preprocessing phase can be performed in O(m2) time and O(msigma) space complexity. The searching phase is in O(n) time complexity.
 
 
-Thanks for all works and contributions to my friend -Sinan Çürük.
+Thanks for all works and contributions to my friend -#Sinan Çürük.
